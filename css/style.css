@@ -1,0 +1,22 @@
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+h1 {
+  margin-bottom: 0;
+  text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  min-height: 300px;
+  margin-bottom: 20px;
+}
+.out {
+  margin-top: 20px;
+  color: green;
+  font-size: 32px;
+}
